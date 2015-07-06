@@ -5,3 +5,4 @@ disable:
 
 variables:
   license: MIT
+  license_file: LICENSE.txt
